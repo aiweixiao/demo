@@ -135,7 +135,7 @@ export default {
       series: [
         {
           type: "line",
-          data: [10, 10, 10, 10, 10, 10, 10]
+          data: [10, 13, 10, 10, 8, 10, 10]
         }
       ]
     });
