@@ -33,16 +33,16 @@ export default {
           reason: "原因1",
           reason1: "1",
           reason2: "1",
-          reason3: "1",
-          reason4: "1",
+          reason3: "3",
+          reason4: "2",
           reason5: 1
         },
         {
-          reason: "原因1",
+          reason: "原因2",
           reason1: "1",
           reason2: "1",
           reason3: "1",
-          reason4: "1",
+          reason4: "5",
           reason5: 1
         },
         {
@@ -91,7 +91,7 @@ export default {
           reason2: "20",
           reason3: "20",
           reason4: "20",
-          reason5: "20"
+          reason5: "25"
         }
       ]
     };
